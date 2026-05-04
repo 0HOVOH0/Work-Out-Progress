@@ -1,0 +1,18 @@
+{
+  "name": "Gym Progress",
+  "short_name": "Gym Progress",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f4",
+  "theme_color": "#162326",
+  "description": "A mobile-friendly workout, PR, volume, and physique tracking app.",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
