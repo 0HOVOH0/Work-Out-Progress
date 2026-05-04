@@ -1,4 +1,5 @@
 [build]
+  command = "node patch-netlify.js"
   publish = "."
 
 [[headers]]
